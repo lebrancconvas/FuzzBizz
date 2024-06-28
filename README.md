@@ -1,4 +1,4 @@
-# FuzzBizz (Dark FuzzBizz) 
+# FuzzBizz (Dark FizzBuzz) 
 
 ## Overview
 FizzBuzz is the stupid game about people try to call the number, but if the number meets some condition, 
